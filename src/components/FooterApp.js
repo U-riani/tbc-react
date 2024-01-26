@@ -1,6 +1,7 @@
 import { Button, Image } from "react-bootstrap";
 
 const FooterApp = () => {
+  ///
   const imagesData = {
     tbc: require("../images/footer-images/tbc-logo.jpg"),
     facebook: require("../images/footer-images/facebook.jpg"),
